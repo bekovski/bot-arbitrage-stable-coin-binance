@@ -1,1 +1,3 @@
-# bot-arbitrage-stable-coin-binance
+# Bot arbitragem para stable coin na Binance
+
+## Funcionamento
